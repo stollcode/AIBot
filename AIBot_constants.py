@@ -1,0 +1,12 @@
+# Define some colors
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+GREEN = (0, 255, 0)
+DARK_GREEN = (0, 51, 0)
+GREEN_TRANSPARENT = (0, 255, 0, 192)
+
+W_SMOKE  = (245, 245, 245)
+LT_GRAY = (211, 211, 211)
+SILVER = (192, 192, 192)
+BLACK = (0, 0, 0)
